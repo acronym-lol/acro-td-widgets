@@ -243,7 +243,7 @@ class AcroWidgetContainer:
     def OpenRClickMenu(self):
         if op.AW.par.Enableedit:
             self.stored['Selected'] = True
-            op.AW.SelectedAcroWidgetContainer = self.ownerComp.path
+            op.AW.SelectedWidgetContainer = self.ownerComp.path
             self.popMenu.Open(
                 items=['Create Widget', 'Open Settings', 'Copy', 'Cut', 'Paste', 'Delete', 'Save', 'Load'],
                 callback=self.onSelectCallback,

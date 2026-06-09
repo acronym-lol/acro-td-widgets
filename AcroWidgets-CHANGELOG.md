@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.20] - 2026-06-09
+- Updated changelog and version paths 
+
 ## [1.2.18] - 2026-04-30
 - incremental reload widgets
 
@@ -19,12 +22,6 @@ All notable changes to this project will be documented in this file.
 
 ## [1.2.10] - 2026-03-26
 - Expose color parameters on themes page
-
-## [1.2.9] - 2026-03-26
-- 
-
-## [1.2.8] - 2026-03-25
-- 
 
 ## [1.2.7] - 2026-03-24
 - Removed unused ui widgets
