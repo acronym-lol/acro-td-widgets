@@ -1,3 +1,7 @@
+---
+last_reviewed: 2026-08-27
+---
+
 # Acro TD Widgets
 
 Widget framework for building custom in-TD UIs from a reusable library of UI primitives.
