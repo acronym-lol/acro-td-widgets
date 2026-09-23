@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.21] - 2026-08-28
+- Removed the dead `McWidgetsStored` storage key, which still pointed at `/AcroMacrocosm`
+
 ## [1.2.20] - 2026-06-09
 - Updated changelog and version paths 
 
