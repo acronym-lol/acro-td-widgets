@@ -1,6 +1,10 @@
 # Acro TD Widgets
 
+[![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://acronym-lol.github.io/acro-td-widgets/)
+
 Widget management system for TouchDesigner — discovers widgets in the scene, inspects component extensions/parameters, and provides building blocks for custom UIs (buttons, lists, matrices, paged containers, popups).
+
+**Documentation:** https://acronym-lol.github.io/acro-td-widgets/
 
 ## Components
 
