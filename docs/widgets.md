@@ -1,5 +1,6 @@
 ---
 last_reviewed: 2026-08-27
+sidebar_label: 'Widgets Reference'
 ---
 
 # AcroWidgets — Widget Framework
