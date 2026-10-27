@@ -85,6 +85,9 @@ class AcroWidgets(CallbacksExt, AcroVersionExt):
         # Initialize components path from parameter
         self._initComponentsPath()
 
+        # Update components registry
+        self.UpdateComponents()
+
         # Update widget registry
         self.UpdateWidgets()
 

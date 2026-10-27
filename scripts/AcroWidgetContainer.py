@@ -424,7 +424,7 @@ class AcroWidgetContainer:
                 "Can't move widget inside itself.", buttons=['Ok'])
             return
 
-        is_move = not op.AW.Modifiers['ctrl']
+        is_move = not op.AHM.Modifiers['ctrl']
         ui.undo.startBlock('drop widget')
         self._transferWidget(drag_op, is_move)
         ui.undo.endBlock()

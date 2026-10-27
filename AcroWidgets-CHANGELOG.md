@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.23] - 2026-10-27
+- Fixed widget and component updates
+
+## [1.2.22] - 2026-10-27
+- Fixed widget drag copy hotkey
+
 ## [1.2.21] - 2026-08-28
 - Removed the dead `McWidgetsStored` storage key, which still pointed at `/AcroMacrocosm`
 
