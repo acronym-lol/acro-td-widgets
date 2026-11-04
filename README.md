@@ -19,3 +19,7 @@ Widget management system for TouchDesigner — discovers widgets in the scene, i
 ```bash
 git subtree add --prefix=modules/acro-td-widgets https://github.com/acronym-lol/acro-td-widgets.git main --squash
 ```
+
+## Contributing
+
+Issues are welcome here. Pull requests go to [acro-td-core](https://github.com/acronym-lol/acro-td-core) against its `dev` branch; see [CONTRIBUTING.md](CONTRIBUTING.md).
